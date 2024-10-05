@@ -1,5 +1,5 @@
 /*
-Ibtihal ALmughamisi
+Ibtihal 
  */
 package readint;
 import java.util.Scanner;
