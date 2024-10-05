@@ -1,4 +1,4 @@
-//Name: Ibtihal Radhi Almughamisi
+//Name: Ibtihal 
 //Date: Sat,23 Oct 2021
 /*This program converts kilograms ( from 1 to 199 ) to
 pounds.
