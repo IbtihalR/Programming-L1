@@ -1,4 +1,4 @@
-//Name: Ibtihal Radhi Almughamisi
+//Name: Ibtihal
 
 //Date:13 November 2021
 //This program converts foot to meter and meter to foot
