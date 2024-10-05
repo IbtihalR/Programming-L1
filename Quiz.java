@@ -1,4 +1,4 @@
-//Name: Ibtihal Radhi Almughamisi
+//Name: Ibtihal 
 
 //Date:11 /10/2021
 //Quiz2
