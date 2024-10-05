@@ -1,4 +1,4 @@
-//Name: Ibtihal Radhi Almughamisi
+//Name: Ibtihal 
 //Date: Sat,2 Oct 2021
 /*
 This program reads in investment amount,annual interest rate,
