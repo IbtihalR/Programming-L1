@@ -1,4 +1,4 @@
-//Name: Ibtihal Radhi Almughamisi
+//Name: Ibtihal 
 //Date: 9/10/2021
 /*
 This program prompts the user to enter the first 9 digits and displays the
