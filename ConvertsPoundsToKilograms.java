@@ -1,4 +1,4 @@
-//Name: Ibtihal Radhi Almughamisi
+//Name: Ibtihal
 //Date: Sat,23 Oct 2021
 //This programconverts pounds (from 20 to 515) to kilograms
 package convertspoundstokilograms;
