@@ -1,4 +1,4 @@
-//Name: Ibtihal Radhi Almughamisi
+//Name: Ibtihal 
 //Date:19/11/2021
 //This program  count all vowels in a string.
 package lab9exercises1;
