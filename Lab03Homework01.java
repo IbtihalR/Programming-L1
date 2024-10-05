@@ -1,4 +1,4 @@
-//Name: Ibtihal Radhi Almughamisi
+//Name: Ibtihal 
 //Date:7/11/2021
 /*This program  prompts the user to enter the seconds as a String,
 converts the received value to long, and displays the number of years and days 
