@@ -1,4 +1,4 @@
-//Name: Ibtihal Radhi Almughamisi
+//Name: Ibtihal
 //Date: 6/10/2021
 package largestnum;
 import java.util.Scanner;
